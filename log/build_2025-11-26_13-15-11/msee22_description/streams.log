@@ -1,0 +1,32 @@
+[6.489s] Invoking command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/build --no-deps symlink_data
+[7.568s] running develop
+[8.555s] running egg_info
+[8.556s] creating msee22_description.egg-info
+[8.561s] writing msee22_description.egg-info/PKG-INFO
+[8.562s] writing dependency_links to msee22_description.egg-info/dependency_links.txt
+[8.563s] writing entry points to msee22_description.egg-info/entry_points.txt
+[8.564s] writing requirements to msee22_description.egg-info/requires.txt
+[8.565s] writing top-level names to msee22_description.egg-info/top_level.txt
+[8.567s] writing manifest file 'msee22_description.egg-info/SOURCES.txt'
+[8.571s] reading manifest file 'msee22_description.egg-info/SOURCES.txt'
+[8.573s] writing manifest file 'msee22_description.egg-info/SOURCES.txt'
+[8.574s] running build_ext
+[8.574s] Creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/lib/python3.10/site-packages/msee22-description.egg-link (link to .)
+[8.576s] 
+[8.577s] Installed /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description
+[8.577s] running symlink_data
+[8.577s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/ament_index
+[8.577s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/ament_index/resource_index
+[8.578s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/ament_index/resource_index/packages
+[8.580s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/resource/msee22_description -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/ament_index/resource_index/packages
+[8.583s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/package.xml -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description
+[8.584s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/launch
+[8.588s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/launch/move_robot.launch.py -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/launch
+[8.599s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/launch/view_room.launch.py -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/launch
+[8.609s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/rviz
+[8.613s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/rviz/msee22.rviz -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/rviz
+[8.617s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/urdf
+[8.619s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/urdf/inertials.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/urdf
+[8.654s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/urdf/materials.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/urdf
+[8.654s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/urdf/msee22.urdf.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/share/msee22_description/urdf
+[8.680s] Invoked command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/msee22_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/msee22_description/build --no-deps symlink_data

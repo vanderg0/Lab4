@@ -1,0 +1,26 @@
+[6.746s] Invoking command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/build --no-deps symlink_data
+[7.760s] running develop
+[8.728s] running egg_info
+[8.728s] creating py_joint_pub.egg-info
+[8.731s] writing py_joint_pub.egg-info/PKG-INFO
+[8.732s] writing dependency_links to py_joint_pub.egg-info/dependency_links.txt
+[8.734s] writing entry points to py_joint_pub.egg-info/entry_points.txt
+[8.734s] writing requirements to py_joint_pub.egg-info/requires.txt
+[8.734s] writing top-level names to py_joint_pub.egg-info/top_level.txt
+[8.737s] writing manifest file 'py_joint_pub.egg-info/SOURCES.txt'
+[8.741s] reading manifest file 'py_joint_pub.egg-info/SOURCES.txt'
+[8.742s] writing manifest file 'py_joint_pub.egg-info/SOURCES.txt'
+[8.744s] running build_ext
+[8.744s] Creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages/py-joint-pub.egg-link (link to .)
+[8.829s] Installing csv script to /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/py_joint_pub
+[8.832s] 
+[8.832s] Installed /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub
+[8.832s] running symlink_data
+[8.832s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/ament_index
+[8.835s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/ament_index/resource_index
+[8.838s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/ament_index/resource_index/packages
+[8.839s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/resource/py_joint_pub -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/ament_index/resource_index/packages
+[8.839s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/package.xml -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/py_joint_pub
+[8.852s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/resource/ldihel.csv -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/py_joint_pub
+[8.853s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/resource/ldihel_bonus.csv -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/share/py_joint_pub
+[9.028s] Invoked command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/build --no-deps symlink_data

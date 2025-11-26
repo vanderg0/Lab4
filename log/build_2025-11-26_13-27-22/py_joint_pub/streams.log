@@ -1,0 +1,17 @@
+[5.166s] Invoking command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/build --no-deps symlink_data
+[6.550s] running develop
+[7.561s] running egg_info
+[7.561s] writing py_joint_pub.egg-info/PKG-INFO
+[7.562s] writing dependency_links to py_joint_pub.egg-info/dependency_links.txt
+[7.563s] writing entry points to py_joint_pub.egg-info/entry_points.txt
+[7.563s] writing requirements to py_joint_pub.egg-info/requires.txt
+[7.564s] writing top-level names to py_joint_pub.egg-info/top_level.txt
+[7.569s] reading manifest file 'py_joint_pub.egg-info/SOURCES.txt'
+[7.570s] writing manifest file 'py_joint_pub.egg-info/SOURCES.txt'
+[7.572s] running build_ext
+[7.572s] Creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages/py-joint-pub.egg-link (link to .)
+[7.652s] Installing csv script to /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/py_joint_pub
+[7.653s] 
+[7.653s] Installed /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub
+[7.654s] running symlink_data
+[7.777s] Invoked command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/py_joint_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/py_joint_pub/build --no-deps symlink_data

@@ -1,0 +1,32 @@
+[6.413s] Invoking command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/build --no-deps symlink_data
+[7.600s] running develop
+[8.500s] running egg_info
+[8.500s] creating wall_description.egg-info
+[8.504s] writing wall_description.egg-info/PKG-INFO
+[8.505s] writing dependency_links to wall_description.egg-info/dependency_links.txt
+[8.506s] writing entry points to wall_description.egg-info/entry_points.txt
+[8.507s] writing requirements to wall_description.egg-info/requires.txt
+[8.508s] writing top-level names to wall_description.egg-info/top_level.txt
+[8.510s] writing manifest file 'wall_description.egg-info/SOURCES.txt'
+[8.514s] reading manifest file 'wall_description.egg-info/SOURCES.txt'
+[8.515s] writing manifest file 'wall_description.egg-info/SOURCES.txt'
+[8.517s] running build_ext
+[8.517s] Creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/lib/python3.10/site-packages/wall-description.egg-link (link to .)
+[8.519s] 
+[8.520s] Installed /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description
+[8.520s] running symlink_data
+[8.520s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/ament_index
+[8.521s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/ament_index/resource_index
+[8.522s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/ament_index/resource_index/packages
+[8.597s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/resource/wall_description -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/ament_index/resource_index/packages
+[8.597s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/package.xml -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description
+[8.598s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/launch
+[8.607s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/launch/view_wall.launch.py -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/launch
+[8.608s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/rviz
+[8.614s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/rviz/wall.rviz -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/rviz
+[8.621s] creating /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/urdf
+[8.698s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/urdf/inertials.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/urdf
+[8.698s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/urdf/materials.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/urdf
+[8.698s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/urdf/wall.urdf.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/urdf
+[8.698s] symbolically linking /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/urdf/wall_macro.xacro -> /home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/share/wall_description/urdf
+[8.722s] Invoked command in '/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shay/a/vanderg0/ece569-fall2025/Lab4/install/wall_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shay/a/vanderg0/ece569-fall2025/Lab4/build/wall_description/build --no-deps symlink_data
